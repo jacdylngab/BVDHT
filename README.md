@@ -1,6 +1,6 @@
 # BVDHT: A Lightweight Distributed Hash Table
 
-`BVDHT` is a Python-based distributed hash table (DHT) implementation designed to support dynamic peer membership, key-value storage, and basic peer-to-peer communication using a custom socket protocol. This project demonstrates key distributed systems concepts including consistent hashing, peer discovery, and fault resilience.
+`BVDHT` is a Python-based distributed hash table (DHT) implementation designed to support dynamic peer membership, key-value storage, and basic peer-to-peer communication using a custom socket protocol. This project demonstrates key distributed systems concepts including consistent hashing and peer discovery.
 
 ---
 
